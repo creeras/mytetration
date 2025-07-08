@@ -25,4 +25,11 @@
 - ptf2_cuda.py + 기능 확장된 파일입니다.
 - 마우스로 확대할 구역을 지정하여 확대합니다.
 - 더블 클릭 시 무시되도록 변경했습니다. 
-- Zoom Out 버튼을 추가하였습니다. 
+- Zoom Out 버튼을 추가하였습니다.
+
+## colab 버전 ##
+- https://colab.research.google.com/drive/1GS_G-tXNu5c4uP4dok7qrww5GUaOAtCb?usp=sharing
+- chatgpt 가 변환한 버전입니다.
+- 실행시 cpu 가 아닌 gpu(T4)를 선택하셔야 합니다.
+- CPU로 선택된 경우 우측 상단의 삼각형 ▼ 을 눌러서 "런타임 유형"을 변경하셔야 합니다.
+- 무료 사용자의 경우 리소스 제한이 있습니다. 
